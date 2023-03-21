@@ -1,0 +1,11 @@
+Si, esistono diversi servizi di hosting gratuiti o economici dove puoi mettere online il tuo sito web statico. Ecco alcuni esempi:
+
+GitHub Pages: è un servizio di hosting gratuito offerto da GitHub per siti web statici. Puoi utilizzare il tuo account GitHub per ospitare il tuo sito, e non ci sono limiti di spazio di archiviazione.
+
+Netlify: è un altro servizio di hosting gratuito per siti web statici. Netlify offre anche funzionalità di continuous deployment, che significa che puoi aggiornare il tuo sito in tempo reale ogni volta che fai un commit al tuo repository GitHub.
+
+InfinityFree: è un servizio di hosting web gratuito che offre uno spazio di archiviazione di 10 GB, traffico illimitato, e supporto per il protocollo FTP.
+
+Hostinger: è un servizio di hosting economico che offre piani a partire da pochi euro al mese. Hostinger offre anche uno spazio di archiviazione di 10 GB, traffico illimitato, e supporto per il protocollo FTP.
+
+Ci sono anche altri servizi di hosting gratuiti o economici disponibili online, ma questi sono solo alcuni esempi. Ti consiglio di fare una ricerca online per trovare il servizio che meglio si adatta alle tue esigenze.

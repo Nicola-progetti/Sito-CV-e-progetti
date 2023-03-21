@@ -1,0 +1,84 @@
+/*costanti colori*/
+:root {
+  --colore-primario-sfondo: #b7b7b779;
+  --colore-titoli-sottosezioni: #444444a3;
+}
+
+h2{
+    color: var(--colore-titoli-sottosezioni) ;
+}
+/*colori*/
+.black{
+
+    color:black
+}
+
+/*menu e footer*/
+.circle {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 50%/70% 30% 70% 30%;
+  background-color: #f2f2f2;
+}
+.navbar-custom-gray-nav-footer{
+    background-color: #b7b7b779; /* il tuo colore personalizzato qui */
+    color: black;
+}
+.navbar-nav .nav-link{
+    color: black;
+}
+nav a{
+    color: black;
+}
+.destra{
+    align-items: right;
+}
+
+
+
+
+/*   container Curriculum */
+.width-85{
+    width: 85%;
+}
+.custom-container-95{
+    width: 95%;
+
+}
+
+/*
+testi
+*/
+.text-black{
+    color: black;
+}
+.text-yellow{
+    color: yellowgreen;
+    text-align: center;
+}
+.text-white{
+    color: yellowgreen;
+}
+h1.testo-centrato{
+  text-align: center;
+  color: var(--colore-titoli-sottosezioni);
+  text-decoration: Underline;
+}
+.gray-black{
+    background-color: var(--colore-primario-sfondo);
+}
+
+/* CV */
+.img-cv {
+  width: 100px;
+  margin-left: 25px;
+  border-radius: 15px;
+}
+.dimensione-icona-info{
+    width: 20px;
+}
+
+/* classi per pagina algoritmi_e_strutture dati.php*/
+ul li{
+    color: black;
+}
